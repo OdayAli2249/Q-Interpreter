@@ -8,12 +8,10 @@ At its core, the Q Interpreter converts Q code into Java programs. This conversi
 
 The development of the Q Interpreter involved defining context-free grammars in the `.jj` file, where JavaCC facilitates the inclusion of code during the parsing process. This is where the construction of tree nodes takes place, ensuring the representation of Q code in the form of a parse tree.
 
-Through this project, I delved into the realm of compiler design, exploring how programming languages function and culminating in the development of a sophisticated interpreter for a custom language. The Q Interpreter serves as a testament to my exploration and understanding of compiler design principles and language interpretation techniques.
-
 ### Flow Chart
 ![Flow Chart](images/chart.png)
 
-As I reflect on this project, I recognize its significance in my journey as a programmer. It stands as a testament to my curiosity and determination to understand the intricacies of compiler design and language interpretation. Through the Q Interpreter, I not only explored the depths of compiler theory but also honed my skills in software development and problem-solving.
+As I reflect on this project, I recognize its significance in my journey as a programmer. It stands as a testament to my curiosity and determination to understand the intricacies of compiler design and language interpretation. Through the Q Interpreter, I not only explored the depths of compiler theory but also honed my abilities in software development and problem-solving.
 
 What makes the Q programming language special is its foundation in exploration and understanding of how programming languages function. In addition, I intentionally designed Q with very concise tokens, drawing inspiration from Python, to minimize the need for excessive typing when forming programs. This design choice aims to create an easy-to-use programming language, making it accessible to both novice and experienced programmers alike. By combining simplicity with the principles of language design and interpretation, Q offers a unique platform for experimentation and learning in the realm of programming language development.
 
