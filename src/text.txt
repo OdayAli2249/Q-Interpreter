@@ -1,0 +1,9 @@
+func fib->(x)
+?(x<=1)
+ret:=x;
+??
+ret:=fib(x-1)+fib(x-2);
+!
+!
+y:=fib(4.0);
+<-y;
