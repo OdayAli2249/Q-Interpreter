@@ -13,10 +13,10 @@ Through this project, I delved into the realm of compiler design, exploring how 
 ## Images
 
 ### Output
-![Output](/images/output.png)
+![Output](images/output.png)
 
 ### Flow Chart
-![Flow Chart](/images/chart.png)
+![Flow Chart](images/chart.png)
 
 ## Portfolio Website Description
 
