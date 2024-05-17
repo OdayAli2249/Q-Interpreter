@@ -2,7 +2,7 @@
 
 ## Description
 
-The Q Interpreter is a Java-based project developed using JavaCC, aimed at interpreting the Q programming language. This project provides a parser capable of understanding Q code through the utilization of tokens and grammars defined in a `.jj` file. JavaCC then generates a set of files that serve as the lexical and syntax analyzers, constructing a parse tree from the input code.
+The Q Interpreter is a Java-based project developed using JavaCC, aimed at interpreting the Q programming language (my made up programming language :-) ). This project provides a parser capable of understanding Q code through the utilization of tokens and grammars defined in a `.jj` file. JavaCC then generates a set of files that serve as the lexical and syntax analyzers, constructing a parse tree from the input code.
 
 At its core, the Q Interpreter converts Q code into Java programs. This conversion process involves utilizing the generated parser to construct a parse tree, where each node represents a language construct such as statements, conditions, loops, or functions. The parse tree is composed of Java objects of the `TreeNode` class, an abstract class containing a list of children nodes and an abstract `execute` function that leverages the current context to execute the corresponding node.
 
