@@ -17,3 +17,4 @@ What makes the Q programming language special is its foundation in exploration a
 
 ### Output
 ![Output](images/output.png)
+Q interpreter support recursion functions! above is a screenshot of defining and testing Fibonacci sequence function.
